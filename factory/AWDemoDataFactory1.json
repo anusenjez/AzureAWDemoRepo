@@ -1,0 +1,9 @@
+{
+	"name": "AWDemoDataFactory1",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2d1918b-d55f-499f-ac6b-98f167e9c5ee",
+		"tenantId": "a950b533-d1c8-4c3f-96b4-c8a2afd77f39"
+	}
+}
